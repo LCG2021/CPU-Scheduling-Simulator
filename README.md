@@ -57,6 +57,7 @@ average response time
 the average-turnaround time
 
 Submissions
+
 • All your source code must be submitted on Blackboard
 • Due date; Friday November 20th, 2020 by 11:59 pm. No late submission will 
 be accepted. 
