@@ -51,13 +51,16 @@ queue status
 Additional Outputs 
 • Your program will output the waiting times of all the processes and compute the 
 average waiting time 
+
 • Your program will output the response times of all the processes and compute the 
 average response time 
+
 • Your program will output the turn-around times of all the processes and compute 
 the average-turnaround time
 
 Submissions
 
 • All your source code must be submitted on Blackboard
+
 • Due date; Friday November 20th, 2020 by 11:59 pm. No late submission will 
 be accepted. 
